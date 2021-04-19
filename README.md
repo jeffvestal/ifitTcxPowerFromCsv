@@ -20,6 +20,7 @@ Input:
 
     the basename of the ifit export. 
     NOTE: the tcx and csv are assumed to have the same basename, just different file extensions
+    The csv and tcx files can be manually exported from the workout summary screen on iFit's website. 
         
 Output:
 
