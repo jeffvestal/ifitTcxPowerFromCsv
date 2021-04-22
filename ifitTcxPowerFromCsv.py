@@ -1,4 +1,4 @@
-#! env python
+#! /usr/bin/env python
 
 '''
 Author : Jeff Vestal - github.com/jeffvestal
