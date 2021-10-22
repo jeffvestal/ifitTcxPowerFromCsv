@@ -29,3 +29,14 @@ Output:
 
 Running
 `./ifitTcxPowerFromCsv <workoutbasename>`
+
+eg.
+
+tcx and csv downloaded files for 1 workout:
+
+  2021_10_21_06_10_Nesjavallavegur_Interval_Climb,_South_Iceland,_Iceland.csv
+  2021_10_21_06_10_Nesjavallavegur_Interval_Climb,_South_Iceland,_Iceland.tcx
+
+Command to Run:
+
+`./ifitTcxPowerFromCsv ./2021_10_21_06_10_Nesjavallavegur_Interval_Climb,_South_Iceland,_Iceland`
